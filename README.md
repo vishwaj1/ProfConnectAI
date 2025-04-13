@@ -8,7 +8,7 @@ This fullstack project scrapes professor data from their profile pages, summariz
 ## 📁 Project Structure
 
 ```
-sendEmailsAIAgent/
+ProfConnectAI/
 ├── backend/              # Express backend server
 │   ├── server.js
 │   ├── professors.csv
@@ -25,8 +25,8 @@ sendEmailsAIAgent/
 
 ### 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/sendEmailsAIAgent.git
-cd sendEmailsAIAgent
+git clone git@github.com:vishwaj1/ProfConnectAI.git
+cd ProfConnectAI
 ```
 
 ---
